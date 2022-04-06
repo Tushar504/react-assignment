@@ -1,0 +1,41 @@
+#imgdiv{
+    width: 300px;
+    margin: auto;
+    
+}
+#logo{
+    width: 100%;
+    margin: auto;
+   
+}
+
+#container{
+display: flex;
+margin: auto;
+justify-content: center;
+margin-top: 50px;
+}
+h6{
+margin: 5px;
+}
+#input{
+width: 500px;
+height: 300px;
+}
+#output{
+padding: 10px;
+margin-top: 60px;
+visibility: hidden;
+border: 1px solid red;
+width: 500px;
+height: 285px;
+margin-left: 20px;
+
+background-color: black;
+color: white;
+font-weight: bold;
+font-size: 20px;
+overflow-y: auto;
+
+
+}
