@@ -1,0 +1,41 @@
+.outside{
+    width: 50px;
+    height: 50px;
+ 
+    background-color: rgb(154, 154, 232);
+    border-radius: 50px;
+}
+.outside:hover{
+    background-color: blue;
+}
+.inside{
+    width: 30px;
+    height: 30px;
+    
+    background-color: rgb(234, 167, 167);
+    border-radius: 30px;
+    margin-left: 2px;
+}
+h3{
+   font-weight: bold;
+    margin: 10px 0px 0px 0px;
+}
+
+.append{
+  margin-top: 5px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    padding: 10px;
+   
+}
+.todolist{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+ margin-top: 50px;
+
+}
