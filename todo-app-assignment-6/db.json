@@ -1,0 +1,89 @@
+{
+  "todo": [
+    {
+      "todo": "learn react",
+      "status": true,
+      "id": 1
+    },
+    {
+      "todo": "i will study mongodb",
+      "status": true,
+      "id": 2
+    },
+    {
+      "todo": "learn nodeJS",
+      "status": true,
+      "id": 3
+    },
+    {
+      "todo": "learn express",
+      "status": true,
+      "id": 4
+    },
+    {
+      "todo": "learn git",
+      "status": true,
+      "id": 5
+    },
+    {
+      "todo": "learn swimming",
+      "status": true,
+      "id": 6
+    },
+    {
+      "todo": "to get placed",
+      "status": true,
+      "id": 7
+    },
+    {
+      "todo": "to get pizza",
+      "status": true,
+      "id": 8
+    },
+    {
+      "todo": "learn dp",
+      "status": true,
+      "id": 9
+    },
+    {
+      "todo": "learn BS",
+      "status": true,
+      "id": 10
+    },
+    {
+      "todo": "learn BT",
+      "status": true,
+      "id": 11
+    },
+    {
+      "todo": "go to pune",
+      "status": true,
+      "id": 12
+    },
+    {
+      "todo": "hr round",
+      "status": true,
+      "id": 13
+    },
+    {
+      "todo": "hr round",
+      "status": true,
+      "id": 14
+    },
+    {
+      "todo": "ln round",
+      "status": true,
+      "id": 15
+    },
+    {
+      "todo": "resume round",
+      "status": true,
+      "id": 16
+    },
+    {
+      "todo": "ln/resume round",
+      "status": true,
+      "id": 17
+    }
+  ]
+}
