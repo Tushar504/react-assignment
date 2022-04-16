@@ -1,0 +1,22 @@
+{
+  "employee_details": [
+    {
+      "name": "tushar ahire",
+      "age": "23",
+      "address": "nashik",
+      "department": "Mechanical",
+      "salary": "60000",
+      "marital_status": "Unmarried",
+      "id": 1
+    },
+    {
+      "name": "rakesh",
+      "age": "30",
+      "address": "vashind",
+      "department": "Electrical",
+      "salary": "40000",
+      "marital_status": "Married",
+      "id": 2
+    }
+  ]
+}
