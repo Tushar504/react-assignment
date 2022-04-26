@@ -1,0 +1,10 @@
+button{
+    background: none;
+    border: 0px;
+    margin-left: 10px;
+}
+.links{
+    border:1px solid red;
+    height: 30px;
+    background-color: rgb(65, 204, 49);
+}
