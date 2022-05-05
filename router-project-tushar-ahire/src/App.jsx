@@ -6,6 +6,7 @@ import {Men} from "./componants/men"
 import {Home} from "./componants/home"
 import {Women} from "./componants/women"
 import {MenChild} from "./componants/mensChild"
+import {Cart} from "./componants/cart"
 function App() {
   
 
@@ -18,6 +19,7 @@ function App() {
       <Route path="/men" element={<Men/>} />
       <Route path="/women" element={<Women/>}/>
       <Route path="/mens/:id" element={<MenChild/>}/>
+      <Route path="/cart" element={<Cart/>}/>
     </Routes>
     </div>
   )
