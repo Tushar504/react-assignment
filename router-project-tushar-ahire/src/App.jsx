@@ -1,12 +1,12 @@
 
 import './App.css'
 import { Route,Routes } from 'react-router-dom'
-import {Navbar} from './componants/Navbar'
-import {Men} from "./componants/men"
-import {Home} from "./componants/home"
-import {Women} from "./componants/women"
-import {MenChild} from "./componants/mensChild"
-import {Cart} from "./componants/cart"
+import {Navbar} from './componants/Navbar/Navbar'
+import {Men} from "./componants/mens_womens/men"
+import {Home} from "./componants/home/home"
+import {Women} from "./componants/mens_womens/women"
+import {MenChild} from "./componants/child/mensChild"
+import {Cart} from "./componants/cart/cart"
 function App() {
   
 
