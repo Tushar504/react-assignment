@@ -9,9 +9,14 @@ export const Women=()=>{
     data.push(ele)
     localStorage.setItem("cartData",JSON.stringify(data))
    }
-    useEffect(()=>{
-      getData()
+
+  useEffect(()=>{
+     
+       getData()
+    
     },[])
+
+
      const getData=async()=>{
          let res=await fetch("https://fakestoreapi.com/products")
          let data=await res.json()
