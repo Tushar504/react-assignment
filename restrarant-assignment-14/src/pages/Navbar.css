@@ -1,0 +1,9 @@
+.Navbar{
+    
+    background-color: blue;
+}
+
+.Navbar>a{
+    color: white;
+    margin-left: 20px;
+}

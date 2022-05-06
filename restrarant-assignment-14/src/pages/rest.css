@@ -1,0 +1,18 @@
+.outerDiv{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.innerDiv>img{
+  width: 100%;
+  height: 200px;
+}
+.cat{
+    display: flex;
+}
+.cat>p{
+    margin-left: 10px;
+}

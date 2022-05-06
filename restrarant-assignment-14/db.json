@@ -1,0 +1,108 @@
+{
+    "restraurants":[
+        {
+          "name":"Hotel Mughal Darbar",
+          "payment_methods":{
+               "card":true,
+               "cash":true,
+               "upi":true
+           },
+           "img":"https://c.ndtvimg.com/2019-11/ch6sn38o_chicken_625x300_26_November_19.jpg",
+           "cost":50,
+           "category":["Mughlai","North Indian","Chinese"],
+            "votes":150,
+            "reviews":100
+    
+           },
+        
+
+           {
+            "name":"Fannito Pizza",
+            "payment_methods":{
+                 "card":false,
+                 "cash":true,
+                 "upi":true
+             },
+             "img":"https://e7.pngegg.com/pngimages/606/648/png-clipart-california-style-pizza-sicilian-pizza-chrono-pizza-fast-food-pizza-menu-food-recipe.png",
+             "cost":150,
+             "category":["Pizza"],
+              "votes":350,
+              "reviews":200
+      
+             },
+
+
+             {
+                "name":"Campus Choice",
+                "payment_methods":{
+                     "card":true,
+                     "cash":true,
+                     "upi":false
+                 },
+                 "img":"https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content9555.jpg",
+                 "cost":100,
+                 "category":["Fast Food","Street Food","Shake"],
+                  "votes":100,
+                  "reviews":87
+          
+                 },
+
+
+                 {
+                    "name":"Rock N Roll",
+                    "payment_methods":{
+                         "card":false,
+                         "cash":true,
+                         "upi":false
+                     },
+                     "img":"https://www.thespruceeats.com/thmb/8aXibrt5s468BPxPTK3PkStQIik=/4000x3000/smart/filters:no_upscale()/thai-fresh-rolls-with-vegetarian-option-3217706_form-rolls-step-07-f2d1c96942b04dd0830026702e697f17.jpg",
+                     "cost":70,
+                     "category":["Rolls"],
+                      "votes":150,
+                      "reviews":100
+              
+                     },
+                     {
+                        "name":"Sai Chinese",
+                        "payment_methods":{
+                             "card":false,
+                             "cash":true,
+                             "upi":true
+                         },
+                         "img":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/07/15/chinese.jpg?width=1200",
+                         "cost":100,
+                         "category":["Chinese"],
+                          "votes":150,
+                          "reviews":100
+                  
+                         },
+                         {
+                            "name":"Dosa Point",
+                            "payment_methods":{
+                                 "card":true,
+                                 "cash":true,
+                                 "upi":true
+                             },
+                             "img":"https://c.ndtvimg.com/2019-11/ch6sn38o_chicken_625x300_26_November_19.jpg",
+                             "cost":50,
+                             "category":["South Indian"],
+                              "votes":150,
+                              "reviews":100
+                      
+                             },
+                             {
+                                "name":"Hotel Mughal Darbar",
+                                "payment_methods":{
+                                     "card":true,
+                                     "cash":true,
+                                     "upi":true
+                                 },
+                                 "img":"https://c.ndtvimg.com/2019-11/ch6sn38o_chicken_625x300_26_November_19.jpg",
+                                 "cost":50,
+                                 "category":["Mughlai","North Indian","Chinese"],
+                                  "votes":150,
+                                  "reviews":100
+                          
+                                 }
+        ]
+}
